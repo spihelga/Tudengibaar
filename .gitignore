@@ -1,0 +1,7 @@
+*.class
+
+# IntelliJ Failid
+
+.idea/
+out/
+*.iml
